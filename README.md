@@ -1,1 +1,2 @@
-# Todo-List Project using HTML,CSS,JavaSCript
+# Todo-List
+Project using HTML,CSS,JavaSCript
